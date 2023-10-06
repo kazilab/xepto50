@@ -19,7 +19,7 @@ Drug_concentration: This column shows the final drug concentration. The unit can
 Response_Rep1: This column represents the drug response, which can be either viability or inhibition. It accepts values in percentage or ratio form.
 At least one response column is mandatory, but there is no specific limit on the number of response columns that can be added. If more than two response columns are provided, the system will calculate the SEM (Standard Error of the Mean). Users can also choose whether or not outliers should be removed.
 
-Example:
+Example input data (must be provided in XLSX):
 ------------------------------------------------
 |Experiment|Cell_line|Drug_Name|Drug_Concentration|Response|
 ------------------------------------------------------------

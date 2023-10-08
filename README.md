@@ -26,6 +26,9 @@ Response_Rep1: This column represents the drug response, which can be either via
 
 At least one response column is mandatory, but there is no specific limit on the number of response columns that can be added. If more than two response columns are provided, the system will calculate the SEM (Standard Error of the Mean). Users can also choose whether or not outliers should be removed.
 
+![gui](https://github.com/kazilab/xepto50/assets/67221376/700885b4-9b6b-4c33-a3bd-e530daa5c490)
+
+
 -----------------------------
 On Windows:
 python setup.py install
